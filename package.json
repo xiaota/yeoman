@@ -1,0 +1,24 @@
+{
+  "name": "generator-tcui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "files": [
+    "generators"
+  ],
+  "author": "younger",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^1.0.0",
+    "chalk": "^1.0.0"
+  },
+  "devDependencies": {
+    "yosay": "^1.2.1"
+  }
+}
